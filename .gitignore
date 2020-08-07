@@ -1,1 +1,10 @@
 __history/
+*dproj.local
+*identcache
+*res
+*stat
+*.dcu
+*.skincfg
+/External/DUnitX/DUnitX.inc
+/External/DUnitX/DUnitX.MemoryLeaks.inc
+/External/DUnitX/DUnitX.Stacktrace.inc
